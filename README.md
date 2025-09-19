@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm a person that likes to code useful things and always trying to learn something that catches my fancy!
+<br> I'm currently learning C++!
+
+Take a look at my progress:
+
+[![roadmap.sh](https://roadmap.sh/card/wide/68cd99e21a0296edef74360c?variant=dark)](https://roadmap.sh)
+
+### I have created:
+* **RecORDER** script for the **OBS**!
+* TBC
 <!--
 **padiix/padiix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
