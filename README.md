@@ -1,15 +1,14 @@
 ## Hi there 👋
 
-I'm a person that likes to code useful things and always trying to learn something that catches my fancy!
-<br> I'm currently learning C++!
+I like to code and learn new things!
+My biggest weakness is inability to make stuff look good ( _except some graphics for some damn reason_ >:| )
+<br> I'm currently learning C++ on [learncpp.com](learncpp.com)!
 
-Take a look at my progress:
-
-[![roadmap.sh](https://roadmap.sh/card/wide/68cd99e21a0296edef74360c?variant=dark)](https://roadmap.sh)
+- ⚡ Fun fact: Hold <kbd>CTRL</kbd> and press <kbd>DEL</kbd> or <kbd>BCKSPC</kbd> to delete full words!
 
 ### I have created:
-* **RecORDER** script for the **OBS**!
-* TBC
+* **RecORDER [Python] [OBS]**
+  * Organizes recordings/split recordings/replays/screenshots based on hooks of Window Capture/ Game Capture sources
 <!--
 **padiix/padiix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
